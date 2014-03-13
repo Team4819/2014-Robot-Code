@@ -267,6 +267,7 @@ DirectoryIndex index.htm
 			<Item Name="Autons" Type="Folder">
 				<Item Name="Auton1.vi" Type="VI" URL="../Auton1.vi"/>
 				<Item Name="Auton2.vi" Type="VI" URL="../Auton2.vi"/>
+				<Item Name="Simple Auto.vi" Type="VI" URL="../Simple Auto.vi"/>
 			</Item>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
